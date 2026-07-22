@@ -137,7 +137,6 @@ This project can be useful for:
 
 - **Ananya Verma**
 - **Anisha Boken**
-- **Anvi Munjal**
 
 ---
 
