@@ -91,8 +91,6 @@ Crop-Yield-Prediction/
 │
 ├── Project_code.ipynb
 ├── crop_project_dataset.csv
-├── AIML_PROJECT_REPORT.docx
-├── crop_yield_model.pkl
 ├── README.md
 └── requirements.txt
 ```
